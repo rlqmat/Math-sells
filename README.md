@@ -1,13 +1,13 @@
 math-sells/
-├── index.html          <!-- Página inicial -->
-├── catalogo.html       <!-- Lista de e-books -->
-├── ebook.html          <!-- Detalhes de um e-book -->
-├── login.html          <!-- Página de login/cadastro -->
-├── conta.html          <!-- Área do usuário -->
-├── checkout.html       <!-- Página de pagamento -->
+├── index.html
+├── catalogo.html
+├── ebook.html
+├── login.html
+├── conta.html
+├── checkout.html
 ├── css/
-│   └── style.css       <!-- Estilos gerais -->
+│   └── style.css
 ├── js/
-│   └── main.js         <!-- Scripts interativos -->
+│   └── main.js
 └── imagens/
-    └── capas/          <!-- Capas dos e-books -->
+    └── capas-dos-ebooks.jpg
